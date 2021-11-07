@@ -38,7 +38,8 @@ git clone https://github.com/mishakorzik/MailFinder
 **2. If modules cannot be downloaded: replace pkg with apt <br>**
 **3. If you do not know how to delete the repository: rm -rf MailFinder <br>**
 
-
+</details>
+  
 ### How to Start
 ```
 cd MailFinder

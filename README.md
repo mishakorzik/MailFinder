@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://github.com/mishakorzik/Mail"><img title="Version" src="https://img.shields.io/badge/Version-1.0.0-green?style=for-the-badge&logo="></a>
 <a href="https://github.com/mishakorzik/UserFinder/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-yellow?style=for-the-badge&logo=gnu"></a>
-<a href=""><img title="Python" src="https://img.shields.io/badge/Used-Shell-yellow?style=for-the-badge&logo=shell"></a>
+<a href=""><img title="Python" src="https://img.shields.io/badge/Python-3.X-yellow?style=for-the-badge&logo=python"></a>
 <a href="https://github.com/mishakorzik"><img title="Report" src="https://img.shields.io/badge/Copyring-2021-orange?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/mishakorzik"><img title="Autor" src="https://img.shields.io/badge/Author-mishakorzik-orange?style=for-the-badge&logo=github"></a>
 
@@ -31,6 +31,13 @@ apt install python
 pip3 install requests
 git clone https://github.com/mishakorzik/MailFinder
 ```
+<details id="missing-code-coverage">
+  <summary>Need help with installation</summary>
+
+**1. If you have problems installing the requests library: python3 -m pip install requests <br>**
+**2. If modules cannot be downloaded: replace pkg with apt <br>**
+**3. If you do not know how to delete the repository: rm -rf MailFinder <br>**
+
 
 ### How to Start
 ```

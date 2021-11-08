@@ -16,7 +16,7 @@
 • <a href="https://github.com/mishakorzik/MailFinder/wiki">Wikipedia</a> •
 
 
-**OSINT tool for finding email by first and last name!**
+**OSINT tool for finding email by first and last name! <br> Attention tool can be used 220 times a day due to running out of api keys.**
 
 > Я не несу ответственности за ваши действия. Скачивая программное обеспечение из этого репозитория, вы соглашаетесь с [лицензией](https://github.com/mishakorzik/MailFinder/blob/main/LICENSE).
 

@@ -1,4 +1,4 @@
-<img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/MailFinder/main/20211107_203626.jpg"/>
+<img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/MailFinder/main/IMG_20211107_203626.jpg"/>
 
 <p align="center">
 <a href="https://github.com/mishakorzik/Mail"><img title="Version" src="https://img.shields.io/badge/Version-1.0.0-yellow?style=for-the-badge&logo="></a>

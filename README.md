@@ -57,6 +57,9 @@ python MailFinder.py
 
 <img width="99.0%" src="https://raw.githubusercontent.com/mishakorzik/MailFinder/main/IMG_20211107_192618.jpg"/> 
 
+**If you want to donate, click on the button**
+<a href="https://www.donationalerts.com/r/misha_korzhik"><img title="Donate" src="https://img.shields.io/badge/Donate-MailFinder-yellow?style=for-the-badge&logo=github"></a>
+  
 ## I recommend watching
 
 1.<a href="https://github.com/mishakorzik/qiq">qiq - Useful batch installer</a> <br>

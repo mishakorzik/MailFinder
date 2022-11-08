@@ -55,6 +55,8 @@ python MailFinder.py
 ### Screenshot
 #### here is a `screenshot` of the MailFinder tool. As you can see, everything works well for me, without `glitches` and `lags`.
 
+**Repository Views** ![Views](https://profile-counter.glitch.me/MailFinder/count.svg)
+
 <img width="99.0%" src="https://raw.githubusercontent.com/mishakorzik/MailFinder/main/IMG_20211107_192618.jpg"/> 
 
 **If you want to donate, click on the button**

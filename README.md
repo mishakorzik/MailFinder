@@ -18,7 +18,7 @@
 
 **Attention tool can be used 275 times a day due to running out of api keys. When the new day begins, the api keys are updated and you can continue to use the tool.**
 
-> Я не несу ответственности за ваши действия. Скачивая программное обеспечение из этого репозитория, вы соглашаетесь с [лицензией](https://github.com/mishakorzik/MailFinder/blob/main/LICENSE).
+> I am not responsible for your actions. By downloading software from this repository, you agree to the [license](https://github.com/mishakorzik/MailFinder/blob/main/LICENSE).
 
 
 ### How to Install

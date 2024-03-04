@@ -1,7 +1,7 @@
 <img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/MailFinder/main/IMG_20211107_203626.jpg"/>
 
 <p align="center">
-<a href="https://github.com/mishakorzik/Mail"><img title="Version" src="https://img.shields.io/badge/Version-1.0.0-yellow?style=for-the-badge&logo="></a>
+<a href="https://github.com/mishakorzik/Mail"><img title="Version" src="https://img.shields.io/badge/Version-1.7.1-yellow?style=for-the-badge&logo="></a>
 <a href="https://github.com/mishakorzik/UserFinder/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-yellow?style=for-the-badge&logo=gnu"></a>
 <a href=""><img title="Python" src="https://img.shields.io/badge/Python-3.X-yellow?style=for-the-badge&logo=python"></a>
 <a href="https://github.com/mishakorzik"><img title="Report" src="https://img.shields.io/badge/Copyring-2021-orange?style=for-the-badge&logo=github"></a>

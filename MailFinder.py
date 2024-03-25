@@ -19,7 +19,7 @@ version = "1.7"
 space = "    "
 des_space = "⁣  ⁣⁣  ⁣⁣ "
 lines = space + "—"*85
-validator_url = str(requests.get("https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80/validator.txt").text)
+validator_url = str(requests.get("https://raw.githubusercontent.com/mishakorzik/MailFinder/main/.validator").text)
 validator_url = validator_url.replace("\n", "")
 headers = {"User-Agent":"Opera/9.80 (J2ME/MIDP; Opera Mini/9.80 (S60; SymbOS; Opera Mobi/23.334; U; id) Presto/2.5.25 Version/10.54"}
 h_apis = ["5d5015259730682de8b542355525b16ab7026c976a72993d", "83e338e3a43cdcc649a1ea49957d2c0223b601bb", "36a4ce62890b18e216951bb2cf4b9748129418f8"]
@@ -169,7 +169,7 @@ def emailinfo():
 
 def validator():
     auto()
-    user = str(input(f"{space}{b}[{w}?{b}]{w} While user name to validate email:{b} ").lower())
+    user = str(input(f"{space}{b}[{w}?{b}]{w} While username to validate email:{b} ").lower())
     auto()
     print(w+lines)
     data = [

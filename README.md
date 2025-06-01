@@ -36,6 +36,8 @@ git clone https://github.com/mishakorzik/MailFinder
 **3. If you do not know how to delete the repository: rm -rf MailFinder. <br>**
 
 </details>
+
+# This project is stopped
   
 ### How to Start
 ```

@@ -37,7 +37,14 @@ git clone https://github.com/mishakorzik/MailFinder
 
 </details>
 
-# This project is stopped
+---
+
+> [!WARNING]
+> **This project is stopped**
+>
+> The full source code of the project is publicly available, including the email verification library.
+
+---
   
 ### How to Start
 ```
